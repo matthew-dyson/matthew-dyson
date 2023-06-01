@@ -1,8 +1,6 @@
 👋 Hi, I’m Matthew
 
-📫 You can reach me at:
-- matthew.dyson@silverstripe.com
-- on Slack
+📫 You can reach me at matthew.dyson@silverstripe.com
 
 <!---
 matthew-dyson/matthew-dyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
